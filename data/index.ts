@@ -199,35 +199,35 @@ export const workExperience = [
   {
     id: 1,
     title: "SDE 1 - GrEl",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    desc: "As a Software Developer, I have developed two application products, with one surpassing 10,000 downloads on play store.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
     title: "Freelance App Dev Project",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native for a client.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Mobile App Dev - Cendrol",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
     title: "Mobiel App Dev Trainee - Krenai",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
   {
     id: 5,
     title: "Frontend Dev Intern - Lincode",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    desc: "Revamped the UI of the web app, enhancing responsiveness and user experience.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
