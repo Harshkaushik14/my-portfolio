@@ -8,8 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Harsh's Portfolio",
-  description:
-    "Experienced Software Developer specializing in web and mobile app development. Proficient in JavaScript, React, and React Native. Offering freelance services for innovative and high-quality software solutions.",
+  description: "Experienced Software Developer specializing in web and mobile app development. Proficient in JavaScript, React, and React Native. Offering innovative freelance services.",
   keywords: [
     "Harsh Kaushik",
     "Portfolio",
