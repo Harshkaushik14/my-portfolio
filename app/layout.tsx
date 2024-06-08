@@ -8,7 +8,29 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Harsh's Portfolio",
-  description: "Modern & Minimal JS Mastery Portfolio",
+  description:
+    "Experienced Software Developer specializing in web and mobile app development. Proficient in JavaScript, React, and React Native. Offering freelance services for innovative and high-quality software solutions.",
+  keywords: [
+    "Harsh Kaushik",
+    "Portfolio",
+    "JavaScript",
+    "React",
+    "React Native",
+    "Web Development",
+    "Mobile Development",
+    "Freelance Developer",
+    "Software Development",
+    "TypeScript",
+    "Next.js",
+    "Frontend Development",
+    "App Development",
+    "Vanilla JavaScript",
+    "Firebase",
+    "Mental Health App",
+    "Social Media Management",
+    "Content Creation",
+    "Video Editing",
+  ],
 };
 
 export default function RootLayout({
