@@ -27,7 +27,7 @@ const AnnouncementBar: React.FC<AnnouncementBarProps> = ({ message }) => {
         style={{
           display: 'inline-block',
           paddingLeft: "100%",
-          animation: "marquee 15s linear infinite",
+          animation: "marquee 20s linear infinite",
         }}
       >
        📢 {message} 💻
